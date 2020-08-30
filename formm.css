@@ -1,0 +1,21 @@
+body{
+    font-family:"Inter-Regular";
+    font-size: 12px;
+    background-color:#f6f6f6;
+    
+}
+.para1
+{
+    font-family:"Playfair Display";
+    font-size: 20px;
+    
+}
+.container
+{
+background-color:white;
+}
+.button_css{
+    display: flex;
+    justify-content: space-between;
+    margin-left:75%;
+  }
