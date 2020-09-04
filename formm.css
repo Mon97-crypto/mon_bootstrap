@@ -10,12 +10,8 @@ body{
     font-size: 20px;
     
 }
-.container
+.btn-xl
 {
-background-color:white;
+    padding: 4px 60px;
+    border-radius: 5px;
 }
-.button_css{
-    display: flex;
-    justify-content: space-between;
-    margin-left:75%;
-  }
